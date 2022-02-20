@@ -6,4 +6,4 @@ Algorithm used to create this Program was created by Hans Peter Luhn thus known 
 ## Language Used
 C++
 
-## Thanks For Using this Program
+### Thanks For Using this Program
